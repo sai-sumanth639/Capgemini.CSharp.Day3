@@ -140,7 +140,7 @@ namespace Capgemini.CSharp.Day3
 
     }
 
-    public class TestClass5
+    public class TestClass6
 
     {
 
